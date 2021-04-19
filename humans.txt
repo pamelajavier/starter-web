@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pamela Javier	ma.pamela.javier@accenture.com	@amejavier
 
 # THANKS
 
